@@ -1,0 +1,11 @@
+.text{
+	font-size: 1.5em;
+	margin-bottom: 5px; 
+}
+.special{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+    line-height: 1.6;
+    overflow-x: hidden;
+    color: #868F9B;
+}
